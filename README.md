@@ -180,7 +180,7 @@ bash parar.sh            # Para todos los procesos limpiamente
 
 | Documento | Descripción |
 |---|---|
-| [docs/INSTALACION.md](docs/INSTALACION.md) | Guía detallada por OS, troubleshooting |
+| [netprobe/docs/INSTALACION.md](docs/INSTALACION.md) | Guía detallada por OS, troubleshooting |
 | [docs/MANUAL.md](docs/MANUAL.md) | Manual completo de todas las funcionalidades |
 | [docs/MODULOS.md](docs/MODULOS.md) | Referencia de los 44 módulos |
 | [docs/API.md](docs/API.md) | API REST + WebSocket para integraciones |
