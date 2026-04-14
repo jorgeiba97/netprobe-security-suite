@@ -190,7 +190,7 @@ bash parar.sh            # Para todos los procesos limpiamente
 
 ## 🤝 Contribuir
 
-Las contribuciones son bienvenidas. Lee [CONTRIBUTING.md](netprobe/.github/.github/CONTRIBUTING.md) antes de abrir un PR.
+Las contribuciones son bienvenidas. Lee [CONTRIBUTING.md](netprobe/.github/CONTRIBUTING.md) antes de abrir un PR.
 
 1. Fork del repositorio
 2. Crea una rama: `git checkout -b feature/nueva-funcionalidad`
