@@ -20,8 +20,8 @@ Solo funciona contra IPs privadas RFC1918: `192.168.x.x`, `10.x.x.x`, `172.16-31
 ```bash
 git clone https://github.com/oihan777/netprobe-security-suite.git
 cd netprobe-security-suite/netprobe
-sudo bash install.sh    # una sola vez (~5-10 min)
-sudo bash arrancar.sh   # cada vez que quieras usarlo
+sudo bash install.sh    
+sudo bash arrancar.sh   
 ```
 
 Abre el navegador en **http://localhost:5173**
