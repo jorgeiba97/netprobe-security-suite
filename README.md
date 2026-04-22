@@ -30,7 +30,7 @@
 ## 🚀 Inicio en 3 comandos
 
 ```bash
-git clone https://github.com/oihan777/netprobe-security-suite.git
+git clone https://github.com/jorgeiba97/netprobe-security-suite.git
 cd netprobe-security-suite/netprobe
 sudo bash install.sh && sudo bash arrancar.sh
 ```
