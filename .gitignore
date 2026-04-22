@@ -11,9 +11,9 @@ build/
 .eggs/
 
 # Node.js / Frontend
-frontend/node_modules/
-frontend/dist/
-frontend/.vite/
+**/node_modules/
+**/dist/
+**/.vite/
 
 # Logs
 logs/
